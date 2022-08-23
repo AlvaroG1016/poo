@@ -19,6 +19,7 @@ public class Inicio {
         Estudiante est1 = new Estudiante("perro", "puto");
         System.out.println(est1.nombresCompletos());
         System.out.println("Prueba de nueva");
+        //sirve?
 
     }
 
