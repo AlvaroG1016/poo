@@ -18,6 +18,8 @@ public class Inicio {
         //Crear objetos del tipo estudiante
         Estudiante est1 = new Estudiante("perro", "puto");
         System.out.println(est1.nombresCompletos());
+        System.out.println("Prueba de nueva");
+
     }
 
 
